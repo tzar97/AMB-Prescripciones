@@ -1,0 +1,32 @@
+# Proyecto de Gestión Médica
+
+Este es un sistema de gestión médica desarrollado con **Laravel**, el framework PHP más popular para construir aplicaciones web. El sistema permite manejar información de personas, medicamentos y prescripciones, con funcionalidades CRUD (Crear, Leer, Actualizar, Eliminar).
+
+## Características
+
+- **Gestión de Personas**: Crea, edita, visualiza y elimina registros de personas.
+- **Gestión de Medicamentos**: Crea, edita, visualiza y elimina medicamentos.
+- **Gestión de Prescripciones**: Registra y maneja prescripciones médicas vinculadas a personas y medicamentos.
+- **Autenticación**: Implementación de sistema de registro e inicio de sesión utilizando la funcionalidad de autenticación de Laravel.
+
+## Tecnologías Usadas
+
+- **Laravel 10.x**: Un framework PHP para desarrollo web, conocido por su facilidad de uso, escalabilidad y elegancia en el código.
+- **Bootstrap**: Utilizado para los estilos y el diseño del frontend.
+- **MySQL**: Base de datos relacional utilizada para almacenar los datos.
+- **Composer**: Utilizado para manejar las dependencias del proyecto.
+
+## Requisitos
+
+- **PHP 8.x**
+- **Composer**
+- **MySQL**
+- **Servidor web** (XAMPP, WAMP, o cualquier servidor compatible con PHP)
+- **Extensiones de PHP**: Algunas extensiones como `mbstring`, `openssl`, `pdo`, `tokenizer`, `xml` son necesarias.
+
+## Instalación
+
+### 1. Clona el repositorio
+
+```bash
+git clone https://github.com/tzar97/Gestion_medica.git
